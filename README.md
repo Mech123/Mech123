@@ -2,7 +2,7 @@
 
 **Data Engineer · M.Sc. Digital Engineering @ OvGU Magdeburg**
 
-3+ years building data pipelines and ETL/ELT solutions in healthcare and life sciences. Currently expanding into AI-powered data solutions, NLP, and time series forecasting.
+4 years of experience building data pipelines and ETL/ELT solutions across healthcare, life sciences, real estate analytics, and financial services. Currently expanding into AI-powered data solutions, NLP, and time series forecasting.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/veera-raghavulu-bathula-data-engineer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mech123)
@@ -16,7 +16,7 @@
 
 - 🎓 Masters student in **Digital Engineering (Computer Science)** at Otto-von-Guericke-Universität Magdeburg
 - 💼 Working Student **Data Engineer** at IWH – Leibniz Institute for Economic Research, Halle
-- 🏢 Previously **Data / ETL Engineer at Deloitte** (3 years) — 150+ analytics and ETL/ELT solutions for healthcare & life sciences clients
+- 🏢 Previously **Data / ETL Engineer at Deloitte** (3 years) — delivered 150+ analytics and ETL/ELT solutions for healthcare & life sciences clients
 - 🌱 Currently deepening skills in **Machine Learning**, **NLP**, and **AI-powered data pipelines**
 - 🌍 Based in **Magdeburg, Germany**
 - 📬 Reach me at **veeraraghavulubathula@gmail.com**
@@ -39,7 +39,7 @@
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Informatica](https://img.shields.io/badge/Informatica-FF4C00?style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+
 
 **Cloud & Data Warehousing**
 
@@ -102,15 +102,6 @@ A portfolio of data engineering projects covering ingestion pipelines, ETL workf
 ### 🐍 [Data-Structures-and-Algorithms-using-Python](https://github.com/Mech123/Data-Structures-and-Algorithms-using-Python)
 Clean Python implementations of core data structures and algorithms — built for learning and interview preparation.
 `Python`
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mech123&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mech123&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
 
 ---
 
