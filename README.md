@@ -1,4 +1,4 @@
-# Hi, I'm Veera Raghavulu Bathula
+# Veera Raghavulu Bathula
 
 ### Data Engineer | M.Sc. Digital Engineering @ OVGU Magdeburg
 
