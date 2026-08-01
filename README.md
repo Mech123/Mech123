@@ -131,8 +131,9 @@ Building scalable ETL/ELT pipelines, cloud data platforms, analytics workflows, 
 
 ---
 
-## GitHub Stats
 
+<!--
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mech123&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=21600" height="170" alt="GitHub Stats" />
 </p>
@@ -144,7 +145,7 @@ Building scalable ETL/ELT pipelines, cloud data platforms, analytics workflows, 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mech123&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
-
+-->
 ---
 
 ## Connect
