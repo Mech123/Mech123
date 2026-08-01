@@ -120,6 +120,7 @@ Building scalable ETL/ELT pipelines, cloud data platforms, analytics workflows, 
 
 ## Certifications & Learning
 
+- Databricks Certified: Databricks Data Engineer Associate
 - Microsoft Certified: Azure Fundamentals AZ-900
 - Informatica IICS: Cloud Data Integration Services
 - Informatica PowerCenter – Beginner to Expert
@@ -159,5 +160,5 @@ Building scalable ETL/ELT pipelines, cloud data platforms, analytics workflows, 
 ---
 
 <p align="center">
-  Open to Working Student, Internship, and Junior Data Engineering opportunities in Germany.
+  Open to Working Student, Internship, and Data Engineering opportunities in Germany.
 </p>
