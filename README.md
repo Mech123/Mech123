@@ -11,11 +11,12 @@ Currently focused on modern data engineering using **Python, SQL, Databricks, cl
 📍 Magdeburg, Germany  
 📧 [veeraraghavulubathula@gmail.com](mailto:veeraraghavulubathula@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/veera-raghavulu-bathula-data-engineer/)  
-💻 [GitHub](https://github.com/Mech123)
+📊 [Tableau Public](https://public.tableau.com/app/profile/raghava.b1119/vizzes)  
+☁️ [Google Cloud Skills Boost](https://www.skills.google/public_profiles/1e9e0cfa-0a3c-4cc6-bbdb-65c6ed6bfffb)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 | Area | Details |
 | --- | --- |
@@ -31,7 +32,7 @@ Currently focused on modern data engineering using **Python, SQL, Databricks, cl
 
 ---
 
-## 🎯 Open to Opportunities
+## Open to Opportunities
 
 I am currently open to opportunities in Germany across:
 
@@ -47,7 +48,7 @@ Open to **full-time, internship, and working-student opportunities** where I can
 
 ---
 
-## 🚀 What I Work On
+## What I Work On
 
 - Building and maintaining automated data pipelines for large-scale European real-estate datasets
 - Designing ETL/ELT workflows, data transformations, enrichment pipelines, and validation processes
@@ -96,28 +97,6 @@ Open to **full-time, internship, and working-student opportunities** where I can
 - Worked extensively with **Informatica PowerCenter, IICS, SQL, Power BI, and Qlik Sense**
 
 ---
-
-# 📊 Selected Engineering Highlights
-
-- **3+ years** of professional Data Engineering and ETL/ELT experience
-- Designed and maintained **150+ ETL implementations**
-- Experience processing and validating **hundreds of enterprise datasets**
-- Built automated checks covering:
-  - Null values
-  - Duplicate records
-  - Schema consistency
-  - Transformation accuracy
-  - Business-rule validation
-  - Data-quality monitoring
-- Professional exposure across:
-  - Healthcare
-  - Life Sciences
-  - Financial Services
-  - Real Estate
-- Hands-on experience across the complete data lifecycle:
-
-**Data Ingestion → Transformation → Validation → Storage → Analytics → Visualization**
-
 ---
 
 # 🧩 Technical Skills
@@ -181,7 +160,7 @@ Open to **full-time, internship, and working-student opportunities** where I can
 
 ---
 
-# 📚 Current Focus
+# Current Focus
 
 Currently strengthening expertise in:
 
@@ -191,13 +170,11 @@ My goal is to combine my enterprise ETL/data integration experience with modern 
 
 ---
 
-# 🤝 Connect
+# Connect
 
 📧 **Email:** [veeraraghavulubathula@gmail.com](mailto:veeraraghavulubathula@gmail.com)
 
 💼 **LinkedIn:** [Veera Raghavulu Bathula](https://www.linkedin.com/in/veera-raghavulu-bathula-data-engineer/)
-
-💻 **GitHub:** [github.com/Mech123](https://github.com/Mech123)
 
 📍 **Magdeburg, Germany**
 
