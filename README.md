@@ -122,63 +122,49 @@ Open to **full-time, internship, and working-student opportunities** where I can
 
 # 🧩 Technical Skills
 
-## Languages & Scripting
+### Languages & Scripting
 
-`Python` · `SQL` · `Java` · `R` · `Kotlin` · `JavaScript` · `TypeScript` · `Dart`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![Shell/Linux](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 
----
+### Data Engineering
 
-## Data Engineering
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Apache Spark/PySpark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Informatica/IICS](https://img.shields.io/badge/Informatica-FF4D00?logoColor=white)
+![Docker/(CI/CD)](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-`ETL/ELT` · `Data Integration` · `Data Pipelines` · `Data Quality` · `Data Modeling` · `Data Warehousing` · `Lakehouse Architecture` · `Batch Processing` · `Data Validation` · `Data Transformation`
+### Cloud & Warehousing
 
----
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
 
-## Modern Data Platforms
+### BI & Analytics
 
-`Databricks` · `Delta Lake` · `Apache Spark` · `PySpark` · `Apache Airflow` · `Auto Loader` · `Unity Catalog`
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-009845?logo=qlik&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
----
+### Databases
 
-## Cloud & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 
-`AWS` · `Microsoft Azure` · `Google Cloud Platform (GCP)` · `Docker` · `Git` · `GitHub Actions` · `Jenkins` · `Terraform`
+### AI / ML / LLM
 
----
-
-## Databases
-
-`PostgreSQL` · `Oracle` · `MySQL` · `MongoDB`
-
----
-
-## BI & Analytics
-
-`Power BI` · `Tableau` · `Qlik Sense` · `DAX` · `Power Query`
-
----
-
-## Enterprise Data Integration
-
-`Informatica PowerCenter` · `Informatica IICS`
-
----
-
-## SAP Data
-
-`SAP Datasphere` · `SAP S/4HANA` · `SAP Master Data Governance`
-
----
-
-## AI / ML
-
-`PyTorch` · `TensorFlow` · `Hugging Face` · `SHAP` · `LangChain` · `LangGraph` · `LLM Applications`
-
----
-
-## Backend & Application Development
-
-`FastAPI` · `Spring Boot` · `Vue.js` · `React` · `Next.js` · `Flutter`
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![Transformers/Pytorch](https://img.shields.io/badge/LangChain-1C3C3C?logoColor=white)
 
 ---
 
